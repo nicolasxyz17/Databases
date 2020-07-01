@@ -5,7 +5,6 @@
 
 
 import datetime as dt
-import matplotlib.pyplot as plt
 import os.path
 import pandas as pd 
 import yfinance as yf
