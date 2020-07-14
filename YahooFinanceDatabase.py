@@ -1,14 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### YahooFinance Database
-
+### YahooFinance Database
 
 import datetime as dt
 import os.path
 import pandas as pd 
 import yfinance as yf
-
 
 today = dt.date.today()
 
